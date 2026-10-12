@@ -1,0 +1,10 @@
+{
+  "name": "aibis",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AIBIS Global Market Engine: deterministic scoring of six international market-entry modes (BizOn ecosystem).",
+  "scripts": {
+    "test": "node test/engine-literature.test.js && node test/country-role-view.test.js && node test/round-swap.test.js"
+  },
+  "license": "SEE LICENSE IN LICENSE"
+}

@@ -1,0 +1,48 @@
+GIẤY PHÉP ĐỘC QUYỀN — PROPRIETARY LICENSE
+
+AIBIS Global Market Engine — thành phần của hệ sinh thái BizOn Bật Nghiệp
+Bản quyền © 2026 Phan Anh Tú và Đỗ Thùy Hương.
+BẢO LƯU MỌI QUYỀN — ALL RIGHTS RESERVED.
+
+Hệ sinh thái BizOn (DOI): 10.5281/zenodo.21592241
+
+1. PHẠM VI BẢO HỘ
+   Toàn bộ nội dung trong kho này — mã nguồn (HTML, CSS, JavaScript), engine chấm
+   phương thức thâm nhập, danh mục phương thức và tham số, hợp đồng dữ liệu quốc gia,
+   khung hoán vai, bảng tài liệu nền và tài liệu trong docs/ — là tài sản trí tuệ thuộc
+   sở hữu chung của hai tác giả nêu trên, được bảo hộ theo Luật Sở hữu trí tuệ Việt Nam
+   và các điều ước quốc tế liên quan (Công ước Berne, Hiệp định TRIPS).
+
+2. QUYỀN ĐƯỢC PHÉP (không cần xin phép trước)
+   - Sử dụng ứng dụng tại địa chỉ chính thức https://thuyhuongctu.github.io/AIBIS/
+     và https://thuyhuongctu.github.io/BizOn/ ;
+   - Giảng viên và cơ sở giáo dục sử dụng cho GIẢNG DẠY PHI THƯƠNG MẠI;
+   - Đọc mã nguồn cho mục đích học tập, tham khảo cá nhân, kiểm chứng học thuật;
+   - Trích dẫn học thuật kèm ghi công tác giả và DOI (xem README, CITATION.cff).
+
+3. HÀNH VI BỊ CẤM (khi chưa có văn bản cho phép của chủ sở hữu)
+   - Sao chép, phân phối, triển khai lại toàn bộ hoặc một phần mã nguồn ở nơi khác;
+   - Chỉnh sửa, tạo tác phẩm phái sinh hoặc khai thác engine dưới bất kỳ hình thức nào;
+   - Sử dụng trong sản phẩm, dịch vụ hoặc đào tạo CÓ THU PHÍ cho việc dùng phần mềm;
+   - Dùng nội dung kho này làm dữ liệu huấn luyện hệ thống AI thương mại.
+
+4. CẤP PHÉP THƯƠNG MẠI: thuyhuongctu@gmail.com (không độc quyền, bằng văn bản).
+
+5. MIỄN TRỪ TRÁCH NHIỆM
+   Phần mềm được cung cấp "nguyên trạng". Điểm số và số liệu quốc gia là MÔ PHỎNG
+   phục vụ giáo dục, đang kiểm định mô hình; không phải xếp hạng quốc gia hay tư vấn
+   đầu tư, kinh doanh.
+
+---
+
+ENGLISH SUMMARY
+AIBIS Global Market Engine, part of the BizOn ecosystem.
+Copyright © 2026 Phan Anh Tu and Do Thuy Huong. All rights reserved.
+Permitted without prior permission: use at the official URLs; non-commercial classroom
+teaching; reading the source for learning and academic verification; academic citation
+with attribution and the DOI. Prohibited without written permission: copying,
+redistributing or re-deploying the source; derivative works or exploitation of the
+engine; fee-charging use; use as training data for commercial AI systems.
+Commercial licensing: thuyhuongctu@gmail.com. Provided "as is". Scores and country
+figures are educational simulations under model validation, not country rankings or
+investment advice.

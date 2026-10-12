@@ -1,0 +1,49 @@
+{
+  "title": "AIBIS Global Market Engine: a deterministic engine for choosing international market-entry modes",
+  "upload_type": "software",
+  "version": "0.1.0",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Phan, Anh Tu",
+      "affiliation": "Can Tho University",
+      "orcid": "0000-0003-0667-3137"
+    },
+    {
+      "name": "Do, Thuy Huong",
+      "affiliation": "Can Tho University",
+      "orcid": "0000-0002-7711-2487"
+    }
+  ],
+  "description": "AIBIS (Tier 2B of the BizOn ecosystem) scores six international market-entry modes (export, licensing, joint venture, strategic alliance, wholly-owned FDI, digital entry) for a firm and a host country on eight priority dimensions with published weights. The engine is deterministic, so learners can trace the reasoning behind a ranking and instructors can grade it. A literature base links each mode and parameter to verified sources (Maekelburger et al., 2012; Blomstermo et al., 2006; Beugelsdijk et al., 2018; Elmoez et al., 2021; Ojala & Tyrväinen, 2008; Hult et al., 2020; Aguilera et al., 2020). Preview release: parameters are illustrative and the model is not yet calibrated. Split out of the BizOn ecosystem for academic archiving and a Zenodo DOI.",
+  "access_right": "open",
+  "license": "other-closed",
+  "keywords": [
+    "international business",
+    "foreign market entry mode",
+    "transaction cost economics",
+    "Uppsala model",
+    "cultural distance",
+    "decision engine",
+    "business simulation",
+    "teaching tool"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/thuyhuongctu/BizOn",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.21592241",
+      "relation": "isPartOf",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://thuyhuongctu.github.io/BizOn/aibis-entry-mode-preview.html",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "© 2026 Phan Anh Tu & Do Thuy Huong. All rights reserved. Proprietary software – archived for transparency and citation."
+}

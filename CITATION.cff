@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Nếu sử dụng phần mềm này trong giảng dạy hoặc nghiên cứu, vui lòng trích dẫn theo thông tin dưới đây. / If you use this software, please cite it as below."
+title: "AIBIS Global Market Engine: a deterministic engine for choosing international market-entry modes"
+type: software
+version: "0.1.0"
+date-released: 2026-10-12
+authors:
+  - family-names: "Phan"
+    given-names: "Anh Tu"
+    orcid: "https://orcid.org/0000-0003-0667-3137"
+    email: patu@ctu.edu.vn
+    affiliation: "Can Tho University"
+  - family-names: "Do"
+    given-names: "Thuy Huong"
+    orcid: "https://orcid.org/0000-0002-7711-2487"
+    email: thuyhuongctu@gmail.com
+    affiliation: "Can Tho University"
+repository-code: "https://github.com/thuyhuongctu/AIBIS"
+url: "https://thuyhuongctu.github.io/BizOn/aibis-entry-mode-preview.html"
+license-url: "https://github.com/thuyhuongctu/AIBIS/blob/main/LICENSE"
+keywords:
+  - international business
+  - foreign market entry mode
+  - transaction cost economics
+  - Uppsala model
+  - cultural distance
+  - decision engine
+  - business simulation
+  - teaching tool
+abstract: "AIBIS (Tier 2B of the BizOn ecosystem) scores six international market-entry modes (export, licensing, joint venture, strategic alliance, wholly-owned FDI, digital entry) for a firm and a host country on eight priority dimensions with published weights. The engine is deterministic, so learners can trace the reasoning behind a ranking. A literature base links each mode and parameter to verified sources. Preview release: parameters are illustrative and the model is not yet calibrated. Split out of the BizOn ecosystem (https://github.com/thuyhuongctu/BizOn) for academic archiving and a Zenodo DOI."
