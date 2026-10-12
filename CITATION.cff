@@ -2,8 +2,16 @@ cff-version: 1.2.0
 message: "Nếu sử dụng phần mềm này trong giảng dạy hoặc nghiên cứu, vui lòng trích dẫn theo thông tin dưới đây. / If you use this software, please cite it as below."
 title: "AIBIS Global Market Engine: a deterministic engine for choosing international market-entry modes"
 type: software
-version: "0.1.0"
+version: "0.1.1"
 date-released: 2026-10-12
+doi: "10.5281/zenodo.23317597"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23317597"
+    description: "Version DOI, v0.1.1 (cite this)"
+  - type: doi
+    value: "10.5281/zenodo.23317596"
+    description: "Concept DOI (all versions)"
 authors:
   - family-names: "Phan"
     given-names: "Anh Tu"

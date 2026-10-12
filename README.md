@@ -1,11 +1,13 @@
 # AIBIS Global Market Engine
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23317596.svg)](https://doi.org/10.5281/zenodo.23317596)
+
 **AIBIS: a deterministic engine for choosing international market-entry modes, for teaching international business**
 
 Phan Anh Tu ([ORCID 0000-0003-0667-3137](https://orcid.org/0000-0003-0667-3137); patu@ctu.edu.vn) and Do Thuy Huong ([ORCID 0000-0002-7711-2487](https://orcid.org/0000-0002-7711-2487); thuyhuongctu@gmail.com)
 School of Economics, Can Tho University, Vietnam
 
-Status: **Preview (v0.1.0)**. The parameters are illustrative and the model has not yet been calibrated; see *Limitations*.
+Status: **Preview (v0.1.1)**. The parameters are illustrative and the model has not yet been calibrated; see *Limitations*.
 
 ## Overview
 
@@ -77,7 +79,7 @@ npm test
 
 ## Citation
 
-Please cite the version DOI shown on Zenodo; `CITATION.cff` holds the metadata. AIBIS is derived from the BizOn ecosystem, https://github.com/thuyhuongctu/BizOn (DOI [10.5281/zenodo.21592241](https://doi.org/10.5281/zenodo.21592241)).
+Please cite the version DOI: v0.1.1 [10.5281/zenodo.23317597](https://doi.org/10.5281/zenodo.23317597). The concept DOI [10.5281/zenodo.23317596](https://doi.org/10.5281/zenodo.23317596) covers all versions and resolves to the latest. `CITATION.cff` holds the metadata. AIBIS is derived from the BizOn ecosystem, https://github.com/thuyhuongctu/BizOn (DOI [10.5281/zenodo.21592241](https://doi.org/10.5281/zenodo.21592241)).
 
 ## References
 
