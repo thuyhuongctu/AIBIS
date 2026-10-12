@@ -1,7 +1,6 @@
 {
   "title": "AIBIS Global Market Engine: a deterministic engine for choosing international market-entry modes",
   "upload_type": "software",
-  "version": "0.1.0",
   "language": "eng",
   "creators": [
     {
@@ -35,13 +34,13 @@
       "scheme": "url"
     },
     {
-      "identifier": "10.5281/zenodo.21592241",
-      "relation": "isPartOf",
-      "scheme": "doi"
-    },
-    {
       "identifier": "https://thuyhuongctu.github.io/BizOn/aibis-entry-mode-preview.html",
       "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.21592241",
+      "relation": "isPartOf",
       "scheme": "url"
     }
   ],
