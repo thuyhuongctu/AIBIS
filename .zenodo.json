@@ -15,7 +15,8 @@
     }
   ],
   "description": "AIBIS (Tier 2B of the BizOn ecosystem) scores six international market-entry modes (export, licensing, joint venture, strategic alliance, wholly-owned FDI, digital entry) for a firm and a host country on eight priority dimensions with published weights. The engine is deterministic, so learners can trace the reasoning behind a ranking and instructors can grade it. A literature base links each mode and parameter to verified sources (Maekelburger et al., 2012; Blomstermo et al., 2006; Beugelsdijk et al., 2018; Elmoez et al., 2021; Ojala & Tyrväinen, 2008; Hult et al., 2020; Aguilera et al., 2020). Preview release: parameters are illustrative and the model is not yet calibrated. Split out of the BizOn ecosystem for academic archiving and a Zenodo DOI.",
-  "access_right": "open",
+  "access_right": "restricted",
+  "access_conditions": "Files are available on request for non-commercial teaching and academic verification. Please state your name, institution and intended use. Commercial licensing: thuyhuongctu@gmail.com. See LICENSE.",
   "license": "other-closed",
   "keywords": [
     "international business",
