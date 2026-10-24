@@ -4,11 +4,14 @@ title: "AIBIS Global Market Engine: a deterministic engine for choosing internat
 type: software
 version: "0.1.1"
 date-released: 2026-10-12
-doi: "10.5281/zenodo.23317597"
+doi: "10.5281/zenodo.23317909"
 identifiers:
   - type: doi
+    value: "10.5281/zenodo.23317909"
+    description: "Latest version DOI, Zenodo record v2 (cite this)"
+  - type: doi
     value: "10.5281/zenodo.23317597"
-    description: "Version DOI, v0.1.1 (cite this)"
+    description: "Version DOI, v0.1.1"
   - type: doi
     value: "10.5281/zenodo.23317596"
     description: "Concept DOI (all versions)"
