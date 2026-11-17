@@ -11,8 +11,8 @@
 ![Node](https://img.shields.io/badge/node-%E2%89%A522-339933?logo=node.js&logoColor=white)
 ![Licence](https://img.shields.io/badge/licence-proprietary-lightgrey)
 
-[**Live preview**](https://thuyhuongctu.github.io/BizOn/aibis-entry-mode-preview.html) ·
-[**BizOn workspace**](https://thuyhuongctu.github.io/BizOn/app/aibis.html) ·
+[**Live preview**](https://bizonland.com/aibis-entry-mode-preview.html) ·
+[**BizOn workspace**](https://bizonland.com/app/aibis.html) ·
 [**Zenodo record**](https://doi.org/10.5281/zenodo.23317596) ·
 [**Cite**](#citation)
 
@@ -97,7 +97,7 @@ AIBIS/
 ```
 
 > [!IMPORTANT]
-> The **preview page** uses its own simplified illustrative score (`entry-mode-preview.js`, `entry-mode-preview-data.js`) and does **not** call the engine. The full engine runs in the [AIBIS workspace of BizOn](https://thuyhuongctu.github.io/BizOn/app/aibis.html), which remains in BizOn because it depends on BizOn's shared app shell and instructor gradebook.
+> The **preview page** uses its own simplified illustrative score (`entry-mode-preview.js`, `entry-mode-preview-data.js`) and does **not** call the engine. The full engine runs in the [AIBIS workspace of BizOn](https://bizonland.com/app/aibis.html), which remains in BizOn because it depends on BizOn's shared app shell and instructor gradebook.
 
 ## Getting started
 
